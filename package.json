@@ -67,7 +67,7 @@
     "@pixi-essentials/cull": "2.0.0",
     "@pixi/mesh-extras": "^7.4.2",
     "@pixi/ui": "^1.0.1",
-    "d3": "7.8.5",
+    "d3": "7.9.0",
     "date-fns": "3.6.0",
     "fontfaceobserver": "^2.3.0",
     "gsap": "^3.12.2",
